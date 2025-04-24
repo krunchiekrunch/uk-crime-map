@@ -36,9 +36,9 @@ Open the generated files in your browser
 
 ## Demo (2025 Feb Data)
 #### Street Crime
-[Map](https://example.com)
+[Map](https://radioactivepotato.github.io/uk-crime-map/demo/crimedata.html)
 
 #### Stop and Search
-[Map](https://example.com)
+[Map](https://radioactivepotato.github.io/uk-crime-map/demo/map_stopandsearch.html)
 
-[Graphs](https://example.com)
+[Graphs](https://radioactivepotato.github.io/uk-crime-map/demo/graphs_stopandsearch.html)
