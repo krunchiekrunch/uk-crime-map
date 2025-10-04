@@ -36,9 +36,9 @@ Open the generated files in your browser
 
 ## Demo (2025 Feb Data)
 #### Street Crime
-[Map](https://radioactivepotato.github.io/uk-crime-map/demo/crimedata.html)
+[Map](https://krunchiekrunch.github.io/uk-crime-map/demo/crimedata.html)
 
 #### Stop and Search
-[Map](https://radioactivepotato.github.io/uk-crime-map/demo/map_stopandsearch.html)
+[Map](https://krunchiekrunch.github.io/uk-crime-map/demo/map_stopandsearch.html)
 
-[Graphs](https://radioactivepotato.github.io/uk-crime-map/demo/graphs_stopandsearch.html)
+[Graphs](https://krunchiekrunch.github.io/uk-crime-map/demo/graphs_stopandsearch.html)
